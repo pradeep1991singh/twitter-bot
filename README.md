@@ -4,9 +4,9 @@ Post status to twitter
 ## Installation
 
 ```sh
-git clone git@github.com:pradeep1991singh/twitter-bot.git
-cd twitter-bot
-npm i
+$ git clone git@github.com:pradeep1991singh/twitter-bot.git
+$ cd twitter-bot
+$ npm i
 ```
 
 ## Create new twitter app
